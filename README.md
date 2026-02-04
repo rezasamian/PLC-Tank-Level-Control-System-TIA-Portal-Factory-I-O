@@ -11,33 +11,29 @@ he goal of the project is to simulate a real industrial process where a PLC main
 
 Push-button logic to start and stop the tank operation cycle
 
-🚨 Emergency Stop (E-Stop)
+🚨 Emergency Discharge
 
-Immediately disables all outputs
+Immediately discharge tank. Both start and stop lights flashing and opens discharge valve. By pressing it again system back to normal condition.
 
-System requires safe reset before restarting
-
-Tank Filling Control
+💧 Tank Filling Control
 
 Filling valve controlled using an analog setpoint (circular potentiometer)
 
 Adjustable inflow rate
 
- Tank Discharge Control
+🌊 Tank Discharge Control
 
 Discharge valve controlled using a second analog setpoint
 
 Adjustable outflow rate
 
-Level Monitoring Sensors
+📏Level Monitoring Sensors
 
-Low-Level Sensor – Prevents tank from running dry
-
-High-Level Sensor – Prevents overflow
+Automatic set if the height is lower 50 or over 250
 
 📊 Tank Volume Indication
 
-Digital output representation of tank volume status
+Digital output representation of tank volume
 
 Provides visual feedback of the water level inside the tank
 
