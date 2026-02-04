@@ -45,4 +45,4 @@ Provides visual feedback of the water level inside the tank
 ## 💻 PLC Program Screenshots
 
 You can view the full ladder logic screenshots here:  
-📁 [PLC_code Screenshots (Word File)](plc-code/Ladder Code.docx)
+📁 [PLC_code Screenshots (Word File)](plc-code/Ladder%20Code.docx)
