@@ -2,6 +2,9 @@
 This project demonstrates an automated tank level control system developed using Siemens TIA Portal and simulated with Factory I/O. The system controls water filling and discharging operations while implementing industrial safety and level monitoring logic.
 he goal of the project is to simulate a real industrial process where a PLC maintains tank levels using analog control, limit sensors, and safety interlocks.
 
+## 🎬 System Demonstration
+![Tank Demo](Tank.gif)
+
 ⚙️ System Features
 
 ✅ Start / Stop Control
