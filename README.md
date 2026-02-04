@@ -41,5 +41,8 @@ Digital output representation of tank volume status
 
 Provides visual feedback of the water level inside the tank
 
-## 💻 PLC Program (Structured Text)
-📁 [PLC_code](plc-code/Ladder Code.docx)
+
+## 💻 PLC Program Screenshots
+
+You can view the full ladder logic screenshots here:  
+📁 [PLC_code Screenshots (Word File)](plc-code/Ladder Code.docx)
