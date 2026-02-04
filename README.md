@@ -40,3 +40,6 @@ High-Level Sensor – Prevents overflow
 Digital output representation of tank volume status
 
 Provides visual feedback of the water level inside the tank
+
+## 💻 PLC Program (Structured Text)
+📁 [PLC_st](plc-code/main_program.st)
